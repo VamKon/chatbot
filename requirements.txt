@@ -1,0 +1,17 @@
+langchain
+openai
+streamlit == 1.35.0
+
+grpcio == 1.62.1
+langchain-community
+langchainhub
+langchain-openai
+chromadb
+bs4
+langchain-text-splitters
+beautifulsoup4
+faiss-cpu
+
+pinecone-client
+pypdf
+langchain-pinecone
